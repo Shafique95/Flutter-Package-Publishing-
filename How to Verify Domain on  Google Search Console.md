@@ -1,4 +1,4 @@
-ধন্যবাদ! আপনি যেহেতু Namecheap ব্যবহার করছেন, নিচে Google Search Console-এ আপনার `ba-systems.com` ডোমেইন ভেরিফাই করার জন্য **ধাপে ধাপে গাইড** দিলাম:
+ Namecheap ব্যবহার করছেন, নিচে Google Search Console-এ আপনার `ba-systems.com` ডোমেইন ভেরিফাই করার জন্য **ধাপে ধাপে গাইড**:
 
 ---
 
